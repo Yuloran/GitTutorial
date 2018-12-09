@@ -28,7 +28,7 @@ Git 使用 SSH 协议验证和登录远程服务器，所以首先需要生成 S
 
 检查是否生成：
 
-![](%pictures/check-pubkey.png)
+![](pictures/check-pubkey.png)
 
 ## 2.2 添加 id_rsa.pub 到 GitHub
 
