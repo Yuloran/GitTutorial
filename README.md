@@ -72,4 +72,4 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 
 ## 5. Git 使用教程
 
-可以参考 [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)，通俗易懂。
+[【Git 教程3】Git 开发流程经验总结](https://www.jianshu.com/p/da80b5448da2)
